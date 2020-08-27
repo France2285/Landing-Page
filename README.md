@@ -1,6 +1,6 @@
 # Landing Page
 
-This is the second project of the Front End's Udacity's Nanodegree. With the HTML and CSS file I made a dynamic navigation menu.
+This is the second project of the Front End's Udacity's Nanodegree. With the HTML and CSS file I made a dynamic navigation menu with Javascript.
 
 ## Getting Started
 
